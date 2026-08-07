@@ -1,0 +1,18 @@
+# Environment variables (real credentials — never commit)
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Office / Power BI lock files
+~$*.pptx
+~$*.pbix
+~$*.docx
